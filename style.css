@@ -1,0 +1,55 @@
+h1 {
+    font-size: 50px;
+    font-family: algerian;
+    color: blue;
+    font-weight: bold;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#GIFIND {
+    padding-top: -500px;   
+}
+#poster {
+    background-image: url(FLAG.gif);
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    cursor: pointer;
+    z-index: 10;
+    position: fixed;
+    background: yellow;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+}
+
+
+.links {
+    color: yellow;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: inherit;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+}
+
+.links:hover {
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+#Ind {
+    font-size: 30px;
+    font-family: californian fb;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 50px;
+}
